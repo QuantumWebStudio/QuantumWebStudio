@@ -27,7 +27,7 @@
 
 ## Highlighted Projects 🌟  
 
-### 🌐 [Scrapmart](#)  
+### 🌐 [Scrapmart](https://github.com/QuantumWebStudio/scrapmart)  
 A platform to recycle scrap materials and contribute to a sustainable future. Built with **Next.js 14**, **ShadCN UI** ,**TailwindCSS**, and **Neon.Tech**.  
 
 ### 🎮 [Tic-Tac-Toe](https://github.com/QuantumWebStudio/PRODIGY_WD_03)  
