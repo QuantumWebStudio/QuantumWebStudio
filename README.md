@@ -50,11 +50,8 @@ A task management application built with **Next JS**, **ShadCN UI**, and **Tailw
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumWebStudio&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
----
-
-## Fun Animations 🎉  
+---  
 ![GIF](https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
-
 ---
 
 ## Connect with Me 📫  
