@@ -1,6 +1,6 @@
 # Hi there, I'm Ziyaan Ahmed 👋  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A41A&width=435&lines=Web+Developer;Currently+Learning+Next.js+and+Rust;Blockchain+and+Cybersecurity+Enthusiast;Open+to+Collaboration)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A41A&width=435&lines=Web+Developer;Currently+Learning+Next.js+and+Rust;Blockchain+and+Cybersecurity+Enthusiast;Open+for+Collaboration)
 
 ---
 
